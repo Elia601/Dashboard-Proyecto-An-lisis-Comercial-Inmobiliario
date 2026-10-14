@@ -6,7 +6,7 @@ Dashboard ejecutivo desarrollado para evaluar el desempeño comercial de **Andes
 
 El proyecto permite analizar ventas, clientes y propiedades para apoyar decisiones estratégicas basadas en datos.
 
-**Link al dashboard:** `Dashboard de desempeño comercial.pbix
+
  🎯 Objetivo del Proyecto
 - Analizar el volumen y valor de ventas por tipo de propiedad y canal.
 - Identificar los segmentos de clientes más rentables.
