@@ -6,6 +6,12 @@ Dashboard ejecutivo desarrollado para evaluar el desempeño comercial de **Andes
 
 El proyecto permite analizar ventas, clientes y propiedades para apoyar decisiones estratégicas basadas en datos.
 
+<img width="675" height="344" alt="image" src="https://github.com/user-attachments/assets/5f039340-b0a4-4fc4-8a9b-65c039e2b4d9" />
+<img width="652" height="309" alt="image" src="https://github.com/user-attachments/assets/2c3b55b6-eb25-49b1-89ef-b379b7292640" />
+<img width="671" height="311" alt="image" src="https://github.com/user-attachments/assets/7198546b-9b8c-4f0f-8aa3-d216b8aa1e56" />
+
+
+
 
  🎯 Objetivo del Proyecto
 - Analizar el volumen y valor de ventas por tipo de propiedad y canal.
